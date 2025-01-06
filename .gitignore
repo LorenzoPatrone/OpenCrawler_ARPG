@@ -1,0 +1,38 @@
+# Gradle specific
+.gradle/
+build/
+
+# IntelliJ IDEA specific
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Eclipse specific
+.project
+.classpath
+.settings/
+bin/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Bytecode and compiled files
+*.class
+*.war
+*.jar
+
+# User-specific configuration files
+*.swp
+*.swo
+
+# Generated files
+*.bak
+*.orig
+*.rej
