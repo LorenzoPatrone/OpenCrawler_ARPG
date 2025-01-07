@@ -1,8 +1,8 @@
 # OpenRogue
 
-The inspiration for this project comes from Rogue, a classic fantasy game designed to run on UNIX† systems.
-Known for its procedurally generated dungeons and challenging gameplay, Rogue has inspired an entire genre known as roguelikes.
-This project aims to recreate the spirit of Rogue while adding modern touches.
+The inspiration for this project comes from Rogue, a classic fantasy game designed to run on **UNIX†** systems. <br/>
+Known for its procedurally generated dungeons and challenging gameplay, *Rogue* has inspired an entire genre known as *roguelikes*. <br/>
+This project is developed in Java and aims to recreate the spirit of *Rogue* while adding modern touches to it.
 
 ---
 
