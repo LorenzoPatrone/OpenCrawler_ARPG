@@ -1,30 +1,56 @@
-# OpenCrawler_ARPG
+# OpenRogue
 
-An **open-source Action RPG and Dungeon Crawler** built with Java, featuring procedural dungeons, dynamic combat, and immersive gameplay. Designed to be modular, extendable, and perfect for anyone interested in ARPG mechanics.
-
----
-
-## Features
-- **Procedural Dungeon Generation**: Unique dungeon layouts for every run.
-- **Dynamic Combat System**: Real-time action with customizable abilities and weapons.
-- **Rogue-like Elements**: Perma-death, random loot, and escalating challenges.
-- **Character Progression**: Level up, unlock skills, and craft powerful gear.
-- **Rich Exploration**: Discover secrets, face challenging bosses, and collect epic rewards.
+The inspiration for this project comes from Rogue, a classic fantasy game designed to run on UNIX† systems.
+Known for its procedurally generated dungeons and challenging gameplay, Rogue has inspired an entire genre known as roguelikes.
+This project aims to recreate the spirit of Rogue while adding modern touches.
 
 ---
 
-## Demo
-🚀 *Coming Soon*: Screenshots, gameplay videos, and a downloadable demo.
+# 📋 Features
+
+### Core Features
+
+**Procedural Dungeon Generation** - Dungeons are generated procedurally, ensuring a unique experience in every playthrough. <br/>
+**Turn-Based Gameplay** - Players and enemies take turns to move, attack, and interact with the environment. <br/>
+**Permadeath** - Emulates the original Rogue challenge: when the player dies, the game restarts from the beginning. <br/>
+**Inventory Management** - Players can collect, use, and manage items like potions, weapons, and armor. <br/>
+**Enemies with Basic AI** - Hostile creatures patrol the dungeon, attack the player, and follow simple behavior patterns. <br/>
+
+### Additional Features
+
+**Fog of War** - Areas of the dungeon are hidden until the player explores them. <br/>
+**Item Identification System** - Potions, scrolls, and other items need to be identified before knowing their effects. <br/>
+**ASCII Art-Based Visuals** - A minimalist, retro-style interface for a true roguelike feel. <br/>
+**Save and Load System** - Players can save their progress and resume the game later. <br/>
+**Random Events** - Traps, secret doors, or special rooms add unpredictability to the dungeon. <br/>
+
+### Optional/Stretch Goals
+
+**Customizable Characters** - Players can choose from different classes or attributes. <br/>
+**Boss Fights** - Epic battles against powerful dungeon bosses. <br/>
+**Achievements** - Track player progress with in-game achievements. <br/>
+**Modular Codebase for Future Enhancements** - Easy-to-extend architecture for adding new features like GUI or additional content. <br/>
+**Tutorial or Help System** - An introductory tutorial or help menu to guide new players. <br/>
 
 ---
 
-## Getting Started
+## 🎮 Demo
+
+*Coming Soon*: Screenshots, gameplay videos, and a downloadable demo.
+Here’s a quick preview of how the game looks and works:
+
+---
+
+## 🚀 Getting Started
+
+Follow these steps to set up and run the project on your local machine.
 
 ### Prerequisites
-To run or contribute to **OpenCrawler_ARPG**, you'll need:
-- **Java Development Kit (JDK)** 17+
-- **Gradle** (for build automation)
-- Optional: An IDE like IntelliJ IDEA or Eclipse
+
+Before we begin, make sure to have the following installed: <br/>
+[**Java Development Kit**](https://www.oracle.com/java/technologies/downloads/archive/) (JDK) 17 or higher. <br/>
+[**Git**](https://git-scm.com/downloads) <br/>
+[**Gradle**](https://gradle.org/install/) (optional, as the project includes a Gradle wrapper) <br/>
 
 ### Clone the Repository
 ```bash
@@ -44,49 +70,51 @@ cd OpenCrawler_ARPG
 
 ---
 
-## How to Contribute
-We welcome contributions! Here's how you can help:
-1. Fork the repository.
-2. Create a feature branch:
-    ```bash
-        git checkout -b feature-name
-    ```
-3. Commit your changes:
-    ```
-        git commit -m "Add feature: feature-name"
-    ```
-4. Push to your branch:
-    ```
-        git push origin feature-name
-    ```
-5. Open a pull request!
-
-Check our [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
+## 🤝 Contributions
+Thank you for your interest in this project! However, this is a personal learning initiative, and I am not currently accepting external contributions.
 
 ---
 
-## Roadmap
-- [ ] Basic dungeon generation
-- [ ] Player movement and combat
-- [ ] Enemy AI system
-- [ ] Advanced loot and inventory system
-- [ ] Boss fights and unique challenges
-- [ ] Visual and audio polish
+## 🗺️ Roadmap
+
+Below is an overview of the project's development plan.
+Features marked with ✅ are complete, while others are in progress or planned for future updates.
+
+Phase 1: Core Features
+- [ ] Procedural dungeon generation
+- [ ] Turn-based movement and combat
+- [ ] Basic enemy AI
+- [ ] ASCII-based visuals
+- [ ] Inventory management
+
+Phase 2: Enhanced Gameplay
+- [ ] Fog of war (hidden areas until explored)
+- [ ] Item identification system
+- [ ] Save and load functionality
+- [ ] Random events (traps, secret rooms, etc.)
+- [ ] Permadeath system
+
+Phase 3: Stretch Goals
+- [ ] Boss fights
+- [ ] Customizable characters (e.g., classes or attributes)
+- [ ] Achievements system
+- [ ] Modular codebase for easier feature extensions
+- [ ] Graphical user interface (GUI)
 
 ---
 
 ## License
+
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
 ---
 
-## Acknowledgements
-- Built with **Java** and inspired by classic ARPGs and rogue-likes.
-- Special thanks to our contributors and testers for their feedback and support.
+## 🙏 Acknowledgements
 
----
+- Rogue devs – For pioneering the roguelike genre and providing the inspiration for this project.
+- Open-source Roguelike community – For sharing knowledge, tools, and resources that have been invaluable for creating games in this genre.
+- [NetHack](https://nethack.org/) – For being a significant influence in the development of procedural generation and roguelike mechanics.
 
-## Contact (Work in progress)
-For questions, suggestions, or bug reports, feel free to open an issue or contact us at **an_email_needs_to_be_created@example.com**.
+A special thank you to anyone who has shared tutorials, articles, or open-source code related to roguelike development.
 
 ---
