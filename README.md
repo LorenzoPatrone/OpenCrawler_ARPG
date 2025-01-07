@@ -7,7 +7,7 @@ An **open-source Action RPG and Dungeon Crawler** built with Java, featuring pro
 ## Features
 - **Procedural Dungeon Generation**: Unique dungeon layouts for every run.
 - **Dynamic Combat System**: Real-time action with customizable abilities and weapons.
-- **Rogue-like Elements**: Permadeath, random loot, and escalating challenges.
+- **Rogue-like Elements**: Perma-death, random loot, and escalating challenges.
 - **Character Progression**: Level up, unlock skills, and craft powerful gear.
 - **Rich Exploration**: Discover secrets, face challenging bosses, and collect epic rewards.
 
@@ -34,13 +34,13 @@ cd OpenCrawler_ARPG
 
 ### Build and Run
 1. Compile the project:
-```
-./gradlew build
-```
+    ```
+        ./gradlew build
+    ```
 2. Run the game:
-```
-./gradlew run
-```
+    ```
+        ./gradlew run
+    ```
 
 ---
 
@@ -48,17 +48,17 @@ cd OpenCrawler_ARPG
 We welcome contributions! Here's how you can help:
 1. Fork the repository.
 2. Create a feature branch:
-```bash
-git checkout -b feature-name
-```
+    ```bash
+        git checkout -b feature-name
+    ```
 3. Commit your changes:
-```
-git commit -m "Add feature: feature-name"
-```
+    ```
+        git commit -m "Add feature: feature-name"
+    ```
 4. Push to your branch:
-```
-git push origin feature-name
-```
+    ```
+        git push origin feature-name
+    ```
 5. Open a pull request!
 
 Check our [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
