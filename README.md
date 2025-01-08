@@ -7,9 +7,8 @@ This project is developed in Java and aims to recreate the spirit of *Rogue* whi
 <div align="center">
     <p>Example of Rogue Gameplay Interface</p>
     <img src=https://i.imgur.com/sbVzOS5.png alt="Rogue Gameplay Screenshot" width=500>
-    <br/>
-    <p>Screenshot taken from <a href="https://youtu.be/vxF1osPkplA?si=XVCeY96nbfbMWx8K" target="_blank">Scott Manley's video</a>.
-    All rights belong to the original creator.</p>
+    <br/><p>Screenshot taken from <a href="https://youtu.be/vxF1osPkplA?si=XVCeY96nbfbMWx8K" target="_blank">Scott Manley's video</a>.
+    <br/>All rights belong to the original creator.</p>
 </div>
 
 ---
