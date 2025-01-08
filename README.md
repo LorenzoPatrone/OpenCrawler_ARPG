@@ -4,33 +4,35 @@ The inspiration for this project comes from Rogue, a classic fantasy game design
 Known for its procedurally generated dungeons and challenging gameplay, *Rogue* has inspired an entire genre known as *roguelikes*. <br/>
 This project is developed in Java and aims to recreate the spirit of *Rogue* while adding modern touches to it.
 
+<div><img src=https://i.imgur.com/sbVzOS5.png alt="Rogue Gameplay Screenshot" width=500></div>
+
 ---
 
 # 📋 Features
 
 ### Core Features
 
-**Procedural Dungeon Generation** - Dungeons are generated procedurally, ensuring a unique experience in every playthrough. <br/>
-**Turn-Based Gameplay** - Players and enemies take turns to move, attack, and interact with the environment. <br/>
-**Permadeath** - Emulates the original Rogue challenge: when the player dies, the game restarts from the beginning. <br/>
-**Inventory Management** - Players can collect, use, and manage items like potions, weapons, and armor. <br/>
-**Enemies with Basic AI** - Hostile creatures patrol the dungeon, attack the player, and follow simple behavior patterns. <br/>
+**🏰 Procedural Dungeon Generation** - Dungeons are generated procedurally, ensuring a unique experience in every playthrough. <br/>
+**🎲 Turn-Based Gameplay** - Players and enemies take turns to move, attack, and interact with the environment. <br/>
+**💀 Permadeath** - Emulates the original Rogue challenge: when the player dies, the game restarts from the beginning. <br/>
+**👜 Inventory Management** - Players can collect, use, and manage items like potions, weapons, and armor. <br/>
+**👾 Enemies with Basic AI** - Hostile creatures patrol the dungeon, attack the player, and follow simple behavior patterns. <br/>
 
 ### Additional Features
 
-**Fog of War** - Areas of the dungeon are hidden until the player explores them. <br/>
-**Item Identification System** - Potions, scrolls, and other items need to be identified before knowing their effects. <br/>
-**ASCII Art-Based Visuals** - A minimalist, retro-style interface for a true roguelike feel. <br/>
-**Save and Load System** - Players can save their progress and resume the game later. <br/>
-**Random Events** - Traps, secret doors, or special rooms add unpredictability to the dungeon. <br/>
+**🌫️ Fog of War** - Areas of the dungeon are hidden until the player explores them. <br/>
+**🔍 Item Identification System** - Potions, scrolls, and other items need to be identified before knowing their effects. <br/>
+**🎨 ASCII Art-Based Visuals** - A minimalist, retro-style interface for a true roguelike feel. <br/>
+**💾 Save and Load System** - Players can save their progress and resume the game later. <br/>
+**🪤 Random Events** - Traps, secret doors, or special rooms add unpredictability to the dungeon. <br/>
 
 ### Optional/Stretch Goals
 
-**Customizable Characters** - Players can choose from different classes or attributes. <br/>
-**Boss Fights** - Epic battles against powerful dungeon bosses. <br/>
-**Achievements** - Track player progress with in-game achievements. <br/>
-**Modular Codebase for Future Enhancements** - Easy-to-extend architecture for adding new features like GUI or additional content. <br/>
-**Tutorial or Help System** - An introductory tutorial or help menu to guide new players. <br/>
+**🛡️ Customizable Characters** - Players can choose from different classes or attributes. <br/>
+**🐉 Boss Fights** - Epic battles against powerful dungeon bosses. <br/>
+**🏆 Achievements** - Track player progress with in-game achievements. <br/>
+**🛠️ Modular Codebase for Future Enhancements** - Easy-to-extend architecture for adding new features like GUI or additional content. <br/>
+**📖 Tutorial or Help System** - An introductory tutorial or help menu to guide new players. <br/>
 
 ---
 
@@ -72,8 +74,9 @@ cd OpenCrawler_ARPG
 
 ## 🤝 Contributions
 
-Thank you for your interest in this project! This is a personal learning initiative, and I am not currently accepting general contributions or feature requests.
-However, if you discover a security vulnerability, I encourage you to report it responsibly. Please refer to the [SECURITY](SECURITY) Policy for detailed instructions.
+Thank you for your interest in this project! <br/>
+This is a personal learning initiative, and I am not currently accepting general contributions or feature requests. <br/>
+However, if you discover a security vulnerability, I encourage you to report it responsibly. Refer to the [SECURITY](SECURITY) Policy for detailed instructions. <br/>
 
 ---
 
