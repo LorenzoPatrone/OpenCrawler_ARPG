@@ -73,7 +73,7 @@ cd OpenCrawler_ARPG
 ## 🤝 Contributions
 
 Thank you for your interest in this project! This is a personal learning initiative, and I am not currently accepting general contributions or feature requests.
-However, if you discover a security vulnerability, I encourage you to report it responsibly. Please refer to the Security Policy for detailed instructions.
+However, if you discover a security vulnerability, I encourage you to report it responsibly. Please refer to the [SECURITY](SECURITY) Policy for detailed instructions.
 
 ---
 
