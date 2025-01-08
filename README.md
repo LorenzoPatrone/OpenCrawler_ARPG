@@ -61,8 +61,8 @@ Before we begin, make sure to have the following installed: <br/>
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/OpenCrawler_ARPG.git
-cd OpenCrawler_ARPG
+git clone https://github.com/your-username/OpenRogue.git
+cd OpenRogue
 ```
 
 ### Build and Run
